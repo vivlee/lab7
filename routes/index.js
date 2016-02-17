@@ -19,4 +19,5 @@ var projects = require('../projects.json');
  	} else {
  		res.redirect('/grid');
  	}
+ 	
  };
